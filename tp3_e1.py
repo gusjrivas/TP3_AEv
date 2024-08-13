@@ -1,3 +1,11 @@
+#######################################################################
+# CEIA - 16Co2024 - Algoritmos Evolutivos - TP3 - Ejercicio 1
+# Gustavo J. Rivas (a1620) | Myrna L. Degano (a1618)
+#######################################################################
+# PSO con restricciones (sin usar bibliotecas pso)
+#######################################################################
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 
